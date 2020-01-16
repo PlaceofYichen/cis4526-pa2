@@ -1,4 +1,4 @@
-# cis4526_PA_2
+# cis4526_pa2
 Programming Assignment 2 for Temple U Machine Learning course
 
 1&2.png are the assignment descriptions.
